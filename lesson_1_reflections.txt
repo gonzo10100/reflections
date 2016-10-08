@@ -1,0 +1,20 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It makes it easier to find differences in two versions, because you do not have to check the complete files.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Some files may have a strong dependency between each other, so it makes sense to track changes in that bundle of files, rather then separating them. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The commit can be done in logical units of work, rather then in the middle of a task.
+
+How might using version control make you more confident to make changes that could break something?
+
+Because i can access previous states in the code and check, if the bug already existed. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Learning Android an being able to control my versions of code.
+  
